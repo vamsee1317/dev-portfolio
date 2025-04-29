@@ -100,7 +100,7 @@ const techCategories = [
       {
         name: "Node.js",
         level: 85,
-        logo: "/icons/nodejs.png",
+        logo: "/icons/nodedotjs.png",
         topics: ["Express.js", "REST APIs", "Authentication", "Performance"],
         mastered: [
           "Express.js Framework",
